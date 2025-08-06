@@ -1,12 +1,6 @@
 # Multimodal OCR & LLM Document Analyzer
 
-This project demonstrates how to build a simple multimodal document analysis
-application.  Users can upload PDFs, DOCX files or images (JPEG/PNG).  The
-application extracts text using OCR when necessary and then summarizes the
-content using Google's Gemini 2.5 Flash large language model.  A
-Streamlit-based web interface makes it easy to use locally or deploy to the
-cloud.
-
+This project is a user-friendly web application that allows you to upload PDFs, DOCX files, or images, automatically extracts text using advanced OCR techniques, and generates concise summaries using Google Gemini 2.5 Flash via LangChain. Built with Streamlit, it provides a seamless experience for document understanding and quick insight extraction, making it ideal for students, researchers, and professionals.
 ## Features
 
 * **Multi‑format input** – Accepts images (`.png`, `.jpg`/`.jpeg`), PDFs and
