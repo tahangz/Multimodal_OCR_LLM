@@ -15,7 +15,7 @@ This project is a user-friendly web application that allows you to upload PDFs, 
   [`langchain-google-genai`](https://python.langchain.com/api_reference/google_genai/)
   integration wraps Google’s Gemini models.  The
   `ChatGoogleGenerativeAI` class reads your API key either from the
-  `GOOGLE_API_KEY` environment variable or via a `google_api_key` argument【369091272480127†L449-L456】.
+  `GOOGLE_API_KEY` environment variable or via a `google_api_key` argument.
   Once the key is configured the model can be invoked with a simple
   function call【65511366144955†L126-L146】.
 * **Streamlit user interface** – A single page allows you to upload a file,
