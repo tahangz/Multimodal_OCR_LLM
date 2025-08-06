@@ -34,7 +34,7 @@ multimodal_ocr_llm_project/
 │   └── llm_utils.py     # Wrapper around the Gemini API via LangChain
 ├── requirements.txt     # Python dependencies
 ├── Dockerfile           # Container configuration for deployment
-├── .env.example         # Template for environment variables
+├── .env                 # Template for environment variables
 └── README.md            # You are here
 ```
 
